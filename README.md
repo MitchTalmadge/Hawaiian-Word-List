@@ -8,7 +8,7 @@ See [`hawaiian-words.csv`](hawaiian-words.csv)
 
 ## How to Run
 1. Clone the repo
-2. Get `bun` (https://bun.io/)
+2. Get `bun` (https://bun.sh/)
 3. Run `bun install`
 4. Run `bun run scrape.ts`
 5. Output is in [`hawaiian-words.csv`](hawaiian-words.csv)
