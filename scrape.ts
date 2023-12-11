@@ -14,8 +14,12 @@ const getDefinitions = async (url: string) => {
   console.log("Parsed: ", hwTags.length);
 
   const definitions = hwTags.map((i, el) => {
-    const word = $(el).find('span.HwNew > a.hw').text();
+    let word = $(el).find('span.HwNew > a.hw').text();
     if(!word) return;
+
+    // Remove subscripts
+    word = word.replaceAll(/\p{No}/ug, '');
+
     const definition = $(el).find('span.def').text();
     return { word, definition };
   }).get();
