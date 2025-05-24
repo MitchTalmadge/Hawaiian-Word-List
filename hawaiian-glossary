@@ -1,0 +1,14 @@
+{
+	"name": "hawaiian-words.csv",
+	"word_count": 23631,
+	"bword_count": 0,
+	"non_lowercase_word_count": 1670,
+	"data_entry_count": 0,
+	"data_entry_extension_count": "",
+	"defi_format": "m=23631",
+	"defi_tag": "",
+	"defi_first_tag": "",
+	"style": "",
+	"source_script": "Latin=23631",
+	"read_options": {}
+}
