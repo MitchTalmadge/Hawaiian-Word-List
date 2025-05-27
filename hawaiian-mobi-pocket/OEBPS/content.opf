@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core"
+xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>hawaiian-words.csv</dc:Title>
+<dc:Language></dc:Language>
+<dc:Identifier id="uid">43230cd1aa7d44b79f7b76c9c078ace8</dc:Identifier>
+<dc:Creator></dc:Creator>
+<dc:Rights></dc:Rights>
+<dc:description></dc:description>
+<dc:Subject BASICCode="REF008000">Dictionaries</dc:Subject>
+</dc-metadata>
+<x-metadata>
+<output encoding="utf-8"></output>
+<DictionaryInLanguage></DictionaryInLanguage>
+<DictionaryOutLanguage></DictionaryOutLanguage>
+<EmbeddedCover></EmbeddedCover>
+</x-metadata>
+</metadata>
+<manifest>
+  <item href="style.css" id="style.css" media-type="text/css" />
+  <item href="g000002.xhtml" id="g000002.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000003.xhtml" id="g000003.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000004.xhtml" id="g000004.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000005.xhtml" id="g000005.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000006.xhtml" id="g000006.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000007.xhtml" id="g000007.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000008.xhtml" id="g000008.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000009.xhtml" id="g000009.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000010.xhtml" id="g000010.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000011.xhtml" id="g000011.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000012.xhtml" id="g000012.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000013.xhtml" id="g000013.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000014.xhtml" id="g000014.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000015.xhtml" id="g000015.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000016.xhtml" id="g000016.xhtml" media-type="application/xhtml+xml" />
+</manifest>
+<spine>
+  <itemref idref="g000002.xhtml" />
+  <itemref idref="g000003.xhtml" />
+  <itemref idref="g000004.xhtml" />
+  <itemref idref="g000005.xhtml" />
+  <itemref idref="g000006.xhtml" />
+  <itemref idref="g000007.xhtml" />
+  <itemref idref="g000008.xhtml" />
+  <itemref idref="g000009.xhtml" />
+  <itemref idref="g000010.xhtml" />
+  <itemref idref="g000011.xhtml" />
+  <itemref idref="g000012.xhtml" />
+  <itemref idref="g000013.xhtml" />
+  <itemref idref="g000014.xhtml" />
+  <itemref idref="g000015.xhtml" />
+  <itemref idref="g000016.xhtml" />
+</spine>
+<tours></tours>
+<guide></guide>
+</package>
